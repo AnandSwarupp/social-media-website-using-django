@@ -31,3 +31,5 @@ A full-featured social media platform built with Django on the backend and HTML,
 3. You can follow other users, and only their posts will appear in your feed.
 
 4. You can like or dislike posts, and view posts from followed users only in a clean, scrollable layout.
+
+Images of the project are in the folder ui_socialmediawebsite file
